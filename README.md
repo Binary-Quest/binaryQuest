@@ -1,6 +1,9 @@
 # binaryQuest
 Hii 
 
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
+
 we are [Binary Quest](https/t.me/BinaryQuest)
 
 we do code for our general purposes & to make our life easy..🖤🖤
