@@ -15,6 +15,6 @@ we do Paid bot codes & deployments
 
 # contact us
 
-~ Channel : [Click Me](t.me/binaryQuest)
+~ Channel : [Click Me](https://telegram.dog/binaryQuest)
 
-~ Support Group : [BQChats](t.me/BQChats)
+~ Support Group : [BQChats](https://telegram.dog/BQChats)
