@@ -16,13 +16,15 @@ we mainly focus on Telegram Bots
 
 we do Paid bot codes & deployments
 
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/Nt6v.gif">
+
 # contact us
 
 ~ Channel : [Click Me](https://telegram.dog/binaryQuest)
 
 ~ Support Group : [BQChats](https://telegram.dog/BQChats)
 
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/Nt6v.gif">
+
 
 
 
