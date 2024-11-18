@@ -34,4 +34,4 @@ we do Paid bot codes & deployments.
 
 
 
-<img align="centre" alt="Coding" width="400" src="https://i.gifer.com/Nt6v.gif">
+<img align="center" alt="Coding" width="800" src="https://i.gifer.com/Nt6v.gif">
