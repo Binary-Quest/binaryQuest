@@ -22,6 +22,8 @@ we do Paid bot codes & deployments
 
 ~ Support Group : [BQChats](https://telegram.dog/BQChats)
 
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/Nt6v.gif">
+
 
 
 <h3 align="left">Languages and Tools:</h3>
