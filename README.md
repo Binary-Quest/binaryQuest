@@ -34,4 +34,4 @@ we do Paid bot codes & deployments.
 
 
 
-<img align="center" alt="Coding" width="800" src="https://i.gifer.com/Nt6v.gif">
+<img align="left" alt="Coding" width="500" src="https://i.gifer.com/Nt6v.gif">  <img align="left" alt="Coding" width="500" src="https://tenor.com/en-IN/view/modi-dance-modi-gi-gif-9763089601276552202">
