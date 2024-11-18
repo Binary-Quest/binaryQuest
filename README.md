@@ -3,6 +3,8 @@ Hii
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"> 
 
+<img align="down" alt="Coding" width="400" src="https://i.gifer.com/Nt6v.gif">
+
 
 we are [Binary Quest](https/t.me/BinaryQuest)
 
@@ -16,7 +18,6 @@ we mainly focus on Telegram Bots
 
 we do Paid bot codes & deployments.
 
-<img align="left" alt="Coding" width="400" src="https://i.gifer.com/Nt6v.gif">
 
 
 # contact us
