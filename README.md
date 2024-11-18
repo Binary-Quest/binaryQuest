@@ -1,7 +1,7 @@
 # binaryQuest
 Hii 
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"> \n <img align="right" alt="Coding" width="400" src="https://i.gifer.com/Nt6v.gif">
 
 
 we are [Binary Quest](https/t.me/BinaryQuest)
@@ -16,7 +16,7 @@ we mainly focus on Telegram Bots
 
 we do Paid bot codes & deployments.
 
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/Nt6v.gif">
+
 
 # contact us
 
