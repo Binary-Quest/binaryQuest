@@ -14,7 +14,7 @@ our codes are normally based python & pryogram
 
 we mainly focus on Telegram Bots
 
-we do Paid bot codes & deployments
+we do Paid bot codes & deployments.
 
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/Nt6v.gif">
 
